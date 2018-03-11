@@ -13,10 +13,10 @@
 ## Code Workflow
 
 <ol>
-<li> Create an empty dictinary called male_name_counts to store data</li>
-<li> Loop through the dataset (legislators.csv) and count how many times each name with "M" in the gender column and a birth year after 1940 occurs, then store the results in the dictionary male_name_counts</li>
-<li> Find the highest value in male_name_counts and assign it to highest_male_count </li>
-<li> Append any keys from male_name_counts with a value equal to highest_male_count to top_male_names</li>
+<li> Created an empty dictionary called male_name_counts to store data</li>
+<li> Looped through the dataset (legislators.csv) and counted how many times each name with "M" in the gender column and a birth year after 1940 occurs, then stored the results in the dictionary male_name_counts</li>
+<li> Created code to find the highest value in male_name_counts and assign it to highest_male_count </li>
+<li> Appended any keys from male_name_counts with a value equal to highest_male_count to top_male_names</li>
 </ol>
 
 <ul>
